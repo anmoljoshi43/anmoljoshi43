@@ -1,7 +1,7 @@
 # <div align="center">🌌 ANMOL JOSHI DEVELOPER PORTFOLIO 🌌</div>
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/yourusername.github.io/main/3d-logo.svg" alt="3D Developer Logo" width="450" />
+<img src="https://allthatsinteresting.com/wordpress/wp-content/uploads/2014/02/3D-Gifs-Despicable-Me.gif" alt="3D Developer Logo" width="450" />
 </div>
 <div align="center">
 
