@@ -1,5 +1,8 @@
-# <div align="center">🌌 CYBER NEXUS DEV PORTFOLIO 🌌</div>
-
+# <div align="center">🌌 ANMOL JOSHI DEVELOPER PORTFOLIO 🌌</div>
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/yourusername/yourusername.github.io/main/3d-logo.svg" alt="3D Developer Logo" width="450" />
+</div>
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anmoljoshi43&color=blueviolet&style=flat-square)
